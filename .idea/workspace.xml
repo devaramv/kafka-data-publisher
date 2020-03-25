@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b1f516-c887-4379-b68c-ef0cb885e05c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z4oPN5uPqib1junxe0mTu9yCFJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="kafkadataproducer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.kafka-producer [clean]">
+    <configuration name="RunKafkaMessagePublisher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ford.iiottools.kafkadataproducer.RunKafkaMessagePublisher" />
+      <module name="kafka-producer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ford.iiottools.kafkadataproducer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunKafkaMessagePublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streamingtools.kafka.kafkadataproducer.RunKafkaMessagePublisher" />
+      <module name="kafka-producer.main" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../AllProjectsConfigPropertiesAndLogs/producerconfig.properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streamingtools.kafka.kafkadataproducer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunKafkaMessagePublisherCurrent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ford.iiottools.kafkadataproducer.RunKafkaMessagePublisher" />
+      <module name="kafka-producer.main" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../properties/kafka-data-producer.properties" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/../../properties/kafka-data-producer.properties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kafka-producer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-producer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunKafkaMessagePublisherCurrent" />
+      <item itemvalue="Application.RunKafkaMessagePublisher (1)" />
+      <item itemvalue="Application.RunKafkaMessagePublisher" />
+      <item itemvalue="Gradle.kafka-producer [build]" />
+      <item itemvalue="Gradle.kafka-producer [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunKafkaMessagePublisher" />
+        <item itemvalue="Gradle.kafka-producer [clean]" />
+        <item itemvalue="Application.RunKafkaMessagePublisherCurrent" />
+        <item itemvalue="Application.RunKafkaMessagePublisher (1)" />
+        <item itemvalue="Gradle.kafka-producer [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b1f516-c887-4379-b68c-ef0cb885e05c" name="Default Changelist" comment="" />
+      <created>1584107701726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584107701726</updated>
+      <workItem from="1584107712450" duration="7583000" />
+      <workItem from="1584123248215" duration="8135000" />
+      <workItem from="1584365666317" duration="22759000" />
+      <workItem from="1584408150876" duration="186000" />
+      <workItem from="1584450441036" duration="9447000" />
+      <workItem from="1584463303704" duration="1571000" />
+    </task>
+    <task id="LOCAL-00001" summary="Working code">
+      <created>1584393904746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584393904746</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Working code:&#10;&#10;Logging is implemented using DataProducerLogger class instead of log4j.properties&#10;log path,logger.properties are part of configuration properties file">
+      <created>1584462373868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584462373868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working code:&#10;&#10;Logging is implemented using DataProducerLogger class instead of log4j.properties&#10;log path,logger.properties are part of configuration properties file">
+      <created>1584462784722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584462784722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Working code" />
+    <MESSAGE value="Working code:&#10;&#10;Logging is implemented using DataProducerLogger class instead of log4j.properties&#10;log path,logger.properties are part of configuration properties file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working code:&#10;&#10;Logging is implemented using DataProducerLogger class instead of log4j.properties&#10;log path,logger.properties are part of configuration properties file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-570" y="-817" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585102758346">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state x="-570" y="-817" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585102758346" />
+    <state x="-350" y="-803" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584463852986" />
+    <state x="930" y="-877" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584375117765" />
+    <state x="-24" y="-827" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584374039106">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-24" y="-827" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584374039106" />
+    <state x="1327" y="-823" key="#com.intellij.ide.util.MemberChooser" timestamp="1584458350293">
+      <screen x="836" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-2715" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584113289596" />
+    <state x="47" y="-823" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584454225639" />
+    <state x="1327" y="-823" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584458350293" />
+    <state x="-74" y="-753" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584384528410">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-74" y="-753" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584384528410" />
+    <state x="-75" y="-674" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584387925565">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-75" y="-674" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584387925565" />
+    <state x="-205" y="-855" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585098422382">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state x="-205" y="-855" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585098422382" />
+    <state x="-8" y="-673" width="449" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584384584087">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-8" y="-673" width="449" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584384584087" />
+    <state x="-2979" y="-139" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584113749703">
+      <screen x="-3360" y="-139" width="1680" height="1010" />
+    </state>
+    <state x="-2979" y="-139" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584113749703" />
+    <state x="-74" y="-785" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584393708817">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-74" y="-785" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584393708817" />
+    <state x="-444" y="-938" key="CommitChangelistDialog2" timestamp="1584462775981">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-444" y="-938" key="CommitChangelistDialog2/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584462775981" />
+    <state x="-244" y="-791" key="FileChooserDialogImpl" timestamp="1585095814511">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state x="-244" y="-791" key="FileChooserDialogImpl/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585095814511" />
+    <state x="-24" y="-777" key="FileChooserDialogImpl/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584372192562" />
+    <state width="1236" height="81" key="GridCell.Tab.0.bottom" timestamp="1585103524748">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state width="1637" height="51" key="GridCell.Tab.0.bottom/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-1680.-132.1680.1010" timestamp="1584108683266" />
+    <state width="1637" height="357" key="GridCell.Tab.0.bottom/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584118004928" />
+    <state width="1236" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585103524748" />
+    <state width="1236" height="372" key="GridCell.Tab.0.bottom/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@616.-1024.1280.984" timestamp="1585099229087" />
+    <state width="1237" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584464778935" />
+    <state width="1237" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584375183652" />
+    <state width="1236" height="81" key="GridCell.Tab.0.center" timestamp="1585103524747">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state width="1637" height="51" key="GridCell.Tab.0.center/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-1680.-132.1680.1010" timestamp="1584108683266" />
+    <state width="1637" height="357" key="GridCell.Tab.0.center/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584118004927" />
+    <state width="1236" height="81" key="GridCell.Tab.0.center/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585103524747" />
+    <state width="1236" height="372" key="GridCell.Tab.0.center/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@616.-1024.1280.984" timestamp="1585099229087" />
+    <state width="1237" height="118" key="GridCell.Tab.0.center/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584464778934" />
+    <state width="1237" height="233" key="GridCell.Tab.0.center/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584375183651" />
+    <state width="1236" height="81" key="GridCell.Tab.0.left" timestamp="1585103524747">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state width="1637" height="51" key="GridCell.Tab.0.left/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-1680.-132.1680.1010" timestamp="1584108683266" />
+    <state width="1637" height="357" key="GridCell.Tab.0.left/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584118004927" />
+    <state width="1236" height="81" key="GridCell.Tab.0.left/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585103524747" />
+    <state width="1236" height="372" key="GridCell.Tab.0.left/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@616.-1024.1280.984" timestamp="1585099229087" />
+    <state width="1237" height="118" key="GridCell.Tab.0.left/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584464778934" />
+    <state width="1237" height="233" key="GridCell.Tab.0.left/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584375183651" />
+    <state width="1236" height="81" key="GridCell.Tab.0.right" timestamp="1585103524748">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state width="1637" height="51" key="GridCell.Tab.0.right/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-1680.-132.1680.1010" timestamp="1584108683266" />
+    <state width="1637" height="357" key="GridCell.Tab.0.right/0.0.1366.728/-3360.-139.1680.1010/-1680.-132.1680.1010@-3360.-139.1680.1010" timestamp="1584118004927" />
+    <state width="1236" height="81" key="GridCell.Tab.0.right/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585103524748" />
+    <state width="1236" height="372" key="GridCell.Tab.0.right/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@616.-1024.1280.984" timestamp="1585099229087" />
+    <state width="1237" height="118" key="GridCell.Tab.0.right/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584464778934" />
+    <state width="1237" height="233" key="GridCell.Tab.0.right/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@836.-1024.1280.984" timestamp="1584375183651" />
+    <state x="-523" y="-905" key="SettingsEditor" timestamp="1585104091704">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state x="-523" y="-905" key="SettingsEditor/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585104091704" />
+    <state x="-303" y="-890" key="SettingsEditor/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584463328994" />
+    <state x="-212" y="-799" key="Vcs.Push.Dialog.v2" timestamp="1584462786766">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-212" y="-799" key="Vcs.Push.Dialog.v2/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584462786766" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585094800276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585094800276" />
+    <state x="-109" y="-708" key="com.intellij.ide.util.TipDialog/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584408305599" />
+    <state x="-642" y="-934" key="new project wizard" timestamp="1585095924555">
+      <screen x="-664" y="-1038" width="1280" height="984" />
+    </state>
+    <state x="-642" y="-934" key="new project wizard/0.0.1366.728/-664.-1038.1280.984/616.-1024.1280.984@-664.-1038.1280.984" timestamp="1585095924555" />
+    <state x="-148" y="-285" key="run.anything.popup" timestamp="1584374291872">
+      <screen x="-444" y="-1024" width="1280" height="984" />
+    </state>
+    <state x="-148" y="-285" key="run.anything.popup/0.0.1366.728/836.-1024.1280.984/-444.-1024.1280.984@-444.-1024.1280.984" timestamp="1584374291872" />
+  </component>
+</project>
