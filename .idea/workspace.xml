@@ -111,8 +111,8 @@
     <configuration name="RunKafkaMessagePublisherCurrent" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ford.iiottools.kafkadataproducer.RunKafkaMessagePublisher" />
       <module name="kafka-producer.main" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../properties/kafka-data-producer.properties" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/../../properties/kafka-data-producer.properties" />
+      <option name="PROGRAM_PARAMETERS" value="S:/properties/kafka-data-producer.properties" />
+      <option name="INPUT_FILE" value="S:/properties/kafka-data-producer.properties" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
