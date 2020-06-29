@@ -61,7 +61,9 @@ java -jar kafka-producer-1.0-SNAPSHOT.jar publisherconfig.properties
 #### Kerberos Clusters
 
 ```shell
-Kerberos clusters requires secure user authentication that can be achieved using jaas file. Follow the following steps to create jaas file.This process works to authenticate using security.protocol = SASL_PLAINTEXT
+Kerberos clusters requires secure user authentication that can be achieved using jaas file. Follow the following steps to create jaas file.This process works to authenticate using security.protocol = SASL_PLAINTEXT.
+
+Uncomment /* properties.put("security.protocol","SASL_PLAINTEXT"); */ in ProducerWithThreads.java class  
 
 Step 1: Create a file kafkaauthorization.jaas
 
