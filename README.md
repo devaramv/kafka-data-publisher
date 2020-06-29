@@ -1,4 +1,4 @@
-## Purpose:
+## Purpose
 
 Kafka Data Publisher's objective is to simulate the streaming environment using the user provided configurations in the publisherconfig.properties. It uses Apache Kafka Producer API to publish n messages asynchronously of type String into the input Kafka topic. This is to help load test streaming applications consumes from Kafka. Kafka Data Publisher can produce up to one million messages per second. 
 
